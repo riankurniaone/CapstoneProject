@@ -6,20 +6,20 @@
     z-index: -1;
     } */
 
-    .hero-container {
+    /* .hero-container { */
     /* background: url('/images/img-home.jpg') center center/cover no-repeat; */
-    background-color: aqua;
-    height: 100vh;
+    /* background-color: #fff;
+    height: 80vh;
     width: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: center;
-    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2);
-    object-fit: contain;
-    }
+    align-items: center; */
+    /* box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, 0.2); */
+    /* object-fit: contain;
+    } */
 
-    .budoctor{
+    /* .budoctor{
         border-radius: 1%;
         width: 18%;
         height: 80%;
@@ -42,9 +42,9 @@
     font-size: 30px;
     margin-top: -400px;
     margin-left: -615px;
-    }
+    } */
 
-    .hero-container > p {
+    /* .hero-container > p {
     margin-top: 5px;
     margin-left: -27px;
     margin-right: 500px;
@@ -63,7 +63,12 @@
     margin: 6px;
     border-radius: 17px;
     color:black;
-    
+    font-weight: bold;
+    }
+
+    .btn:hover{
+        background-color: aqua;
+        color:black;
     }
 
     .fa-play-circle {
@@ -95,4 +100,60 @@
     .btn {
         width: 100%;
     }
+    } */
+
+    section{
+        margin: auto;
+        display: flex;
+        margin-bottom: 50px;
+        margin-top: 50px;
+        padding-left: 50px;
+    }
+    
+    .img-header{
+        width: 35%;
+        height: 45%;
+       margin-left: 30px;
+    }
+    
+    .column{
+        margin-top: 9%;
+        margin-bottom: 50px;
+        padding-right: 100px;
+        padding-left: 2%;
+    }
+    
+    .column .description{
+        font-size: 20px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align: justify;
+    }
+    .description{
+        color: black;
+    }
+    
+    h2{
+        font-family: 'Courier New', Courier, monospace;
+        font-weight: 800;
+        margin-bottom: 5px;
+        color: #364f68;
+        width: 100%;
+        line-height: 40px;
+        text-align: justify;
+    }
+    
+    .button{
+        background-color: #364f68;
+        padding: 13px;
+        float: left;
+        margin-top: 20px;
+        color: white;
+        border-radius: 15px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+    
+    .button:hover{
+        background-color: #fc5185;
+        color: white;
     }
