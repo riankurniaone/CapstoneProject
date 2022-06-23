@@ -90,12 +90,19 @@ function Cards() {
                 <a href='https://riliv.co/'>
                 <img src='https://riliv.co/img-homepage/text-icon.svg'/>
                 </a>
+                <p>Text</p>
             </div>
             <div className='card-call'>
+                <a href='https://riliv.co/'>
                 <img src='https://riliv.co/img-homepage/call-icon.svg'/>
+                </a>
+                <p>Call</p>
             </div>
             <div className='card-call'>
+            <a href='https://riliv.co/'>
                 <img src='https://riliv.co/img-homepage/video%20call-icon.svg'/>
+                </a>
+                <p>Vidio Call</p>
             </div>
         </div>
   
