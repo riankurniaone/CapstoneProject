@@ -5,7 +5,7 @@ import './HeroSection.css';
 
 function HeroSection() {
     return (
-       <div className="wrapper">
+    <div className="wrapper">
         <section id='home'>
             <img className='img-header' src="https://i.pinimg.com/564x/da/c4/39/dac439308b5904d1d754182de3d6ffb4.jpg" alt="" />
             <div className="column">

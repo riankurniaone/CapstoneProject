@@ -1,6 +1,13 @@
 import React from 'react';
 import '../../App.css';
-
-export default function Abouts() {
-    return <h1 className='abouts'>ABOUT</h1>;
+import CardsAbout from '../CardsAbout';
+function About() {
+    return (
+    <>
+        <CardsAbout />
+    </>
+    );
 }
+
+export default About;
+

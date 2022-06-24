@@ -8,7 +8,7 @@ function Footer() {
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     <div className='footer'>
         <div className='footer-section'>
-            <img src='./images/katakan.id.png'/>
+            <img src='./images/katakan.id.png' alt=''/>
         </div>
         <div className='footer-section'>
             <h3>Layanan Kami</h3>
