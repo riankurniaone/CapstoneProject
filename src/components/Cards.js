@@ -33,6 +33,7 @@ function Cards() {
     </section>
 
 
+    <div className='container-fitur'>
     <div className='header-fitur'>
         <h2>Mengenal Psikolog dan Konselor Katakan.id</h2>
         <p>Semua psikolog dan konselor terbaik Katakan.id telah berlisensi dan diakui oleh HIMPSI. Mereka siap mendengarkan ceritamu dan memberikan solusi terkait masalah</p>
@@ -77,6 +78,8 @@ function Cards() {
             <h4><b>OTHERS</b></h4>  
         </div>
         </div> 
+    </div>
+    
     </div>
 
 
