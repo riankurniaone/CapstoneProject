@@ -1,6 +1,6 @@
 import React from "react";
 import './KatakanStory.css';
-import Pagination from '@mui/material/Pagination';
+// import Pagination from '@mui/material/Pagination';
 
 
 function KatakanStory(){
@@ -109,9 +109,9 @@ function KatakanStory(){
          
         </div>
 
-        <div className="pagination">
+        {/* <div className="pagination">
             <Pagination count={5}color="primary" />
-        </div>
+        </div> */}
         
         </>
     )
