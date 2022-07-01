@@ -1,6 +1,11 @@
 import React from 'react';
 import '../../App.css';
+import KatakanStory from '../KatakanStory';
 
 export default function Services() {
-    return <h1 className='services'>KATAKAN STORY</h1>;
+    return(
+        <>
+            <KatakanStory/>
+        </>
+    )
 }

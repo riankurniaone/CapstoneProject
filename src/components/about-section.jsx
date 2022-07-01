@@ -21,7 +21,7 @@ function About(){
                 memiliki tujuan memberikan kemudahan bagi penderita kesehatan mental untuk mencari informasi tentang mental dan berkonsultasi langsung dengan psikolog professional.</p>
             </div>
             <div className="about-img">
-                <img src="https://riliv.co/img-about/sec-1-2x.webp"/>
+                <img src="https://riliv.co/img-about/sec-3-2x.webp"/>
             </div> 
         </div>     
 
@@ -59,7 +59,7 @@ function About(){
             <div className="team-card">
                 <img src="./images/mifta1.png"/>
                 <div className="team-name">
-                    <h5>Rian Kurniawan</h5>
+                    <h5>Fildzah Hashifah</h5>
                 </div>
             </div>
             </div>

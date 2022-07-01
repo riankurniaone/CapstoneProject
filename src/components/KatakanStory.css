@@ -1,0 +1,59 @@
+.story{
+    padding-bottom: 100px;
+}
+.header-story{
+    padding: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;   
+}
+
+
+
+.header-story h1{
+    font-size: 43px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: lighter;
+}
+.story-img img{
+    width: 90%;
+}
+.story-list{
+    display: flex;
+    padding-left: 60px;
+    padding-top: 15px;
+}
+
+.story-title a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.story-desc h3{
+    font-size: 27px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.story-desc p{
+    text-align: left;
+    padding-top: 7px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.header-story p,span{
+    color: #f2960c;
+}
+
+.desc p{
+    padding-top: 20px;
+    font-size: 13px;
+    font-weight: normal;
+}
+
+.pagination{
+   padding-bottom: 80px;
+   justify-content: center;
+   padding-left: 60px;
+}

@@ -33,6 +33,7 @@ function Cards() {
     </section>
 
 
+
     <div className='container-fitur'>
     <div className='header-fitur'>
         <h2>Mengenal Psikolog dan Konselor Katakan.id</h2>
@@ -79,12 +80,9 @@ function Cards() {
         </div>
         </div> 
     </div>
-    
     </div>
 
-
-
-        <div className='header-call'>
+    <div className='header-call'>
             <h2>Kamu Bebas Pilih yang Paling Nyaman</h2>
             <p>Konseling lebih mudah dengan banyak pilihan sesuai kebutuhan</p>
         </div>
@@ -109,6 +107,10 @@ function Cards() {
             </div>
         </div>    
 
+
+
+
+       
     </>
     );
 }
