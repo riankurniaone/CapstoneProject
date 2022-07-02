@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Katakan.id
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Katakan.id is a platform in the field of mental health, have the goal of making it easier for mental health sufferers to find information about mental health and consult directly with professional psychologists. 
+
+Katakan.id has several features such as a chatbot feature to ask questions about mental health and consult with psychologists, katakan story containing articles about mental health, chat features, telephone, and video calls that can be used by users to consult privately with professional psychologists and have certified.
 
 ## Available Scripts
 
