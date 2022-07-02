@@ -13,10 +13,6 @@ function Cards() {
             </div>
             <div className='tutors-list'>
                 <div className='tutors-img'>
-                    <img src='https://th.bing.com/th/id/OIP.On_Q3uIJWEDtaYDCbe3NBwHaG7?pid=ImgDet&rs=1' alt=''/>
-                    <p>Pak Dokter 1</p>
-                </div>
-                <div className='tutors-img'>
                     <img src='/images/PaDokter1.png' alt=''/>
                     <p>Pak Dokter 1</p>
                 </div>
@@ -37,47 +33,46 @@ function Cards() {
     <div className='container-fitur'>
     <div className='header-fitur'>
         <h2>Mengenal Psikolog dan Konselor Katakan.id</h2>
-        <p>Semua psikolog dan konselor terbaik Katakan.id telah berlisensi dan diakui oleh HIMPSI. Mereka siap mendengarkan ceritamu dan memberikan solusi terkait masalah</p>
     </div>
     <div className='fitur'>
         <div class="card-fitur">
-        <img src='https://i.pinimg.com/564x/fa/45/8c/fa458c2240ffb0c84bf3ef869e172a51.jpg' alt=''/>
-        <div class="list-fitur">
-            <h4><b>LOVE</b></h4>  
-        </div>
+            <img src='https://i.pinimg.com/564x/3e/fd/48/3efd4856787e5df62996d3964371ba3f.jpg' alt=''/>
+            <div class="list-fitur">
+                <h4><b>LOVE</b></h4>  
+            </div>
         </div> 
         <div class="card-fitur">
-        <img src='https://i.pinimg.com/564x/fa/45/8c/fa458c2240ffb0c84bf3ef869e172a51.jpg' alt=''/>
-        <div class="list-fitur">
-            <h4><b>WORK</b></h4>  
-        </div>
+            <img src='https://i.pinimg.com/564x/fa/45/8c/fa458c2240ffb0c84bf3ef869e172a51.jpg' alt=''/>
+            <div class="list-fitur">
+                <h4><b>WORK</b></h4>  
+            </div>
         </div> 
         <div class="card-fitur">
-        <img src='https://i.pinimg.com/736x/92/3d/e0/923de0fa9aa7d7abe2f68e34ddcb5812.jpg' alt=''/>
-        <div class="list-fitur">
-            <h4><b>FAMILY</b></h4>  
-        </div>
+            <img src='https://i.pinimg.com/564x/a4/07/7b/a4077bcdee6fc65c77aaa3a40d5c03fa.jpg' alt=''/>
+            <div class="list-fitur">
+                <h4><b>FAMILY</b></h4>  
+            </div>
         </div> 
     </div>
 
     <div className='fitur'>
         <div class="card-fitur">
-        <img src='https://i.pinimg.com/564x/ad/0e/f8/ad0ef821573ac75f4bfa533d2b4cabc7.jpg' alt=''/>
-        <div class="list-fitur">
-            <h4><b>EMOTIONAL</b></h4> 
-        </div>
+            <img src='https://i.pinimg.com/564x/7c/31/80/7c31803afb3ae89a46ad989f7c8b7b1c.jpg' alt=''/>
+            <div class="list-fitur">
+                <h4><b>EMOTIONAL</b></h4> 
+            </div>
         </div> 
         <div class="card-fitur">
-        <img src='https://i.pinimg.com/564x/1b/34/97/1b3497f464044048aa2d4a0b3a986b92.jpg' alt=''/>
-        <div class="list-fitur">
-            <h4><b>SOCIETY</b></h4> 
-        </div>
+            <img src='https://i.pinimg.com/564x/b2/eb/c9/b2ebc9bdc34fe6d386535fe4312a7b24.jpg' alt=''/>
+            <div class="list-fitur">
+                <h4><b>SOCIETY</b></h4> 
+            </div>
         </div> 
         <div class="card-fitur">
-        <img src='https://i.pinimg.com/564x/ac/0d/c0/ac0dc0252fe11d4aeb12f4794b477ece.jpg' alt=''/>
-        <div class="list-fitur">
-            <h4><b>OTHERS</b></h4>  
-        </div>
+            <img src='https://i.pinimg.com/564x/3c/ca/32/3cca32c1a6029c34ade00a217fdab6af.jpg' alt=''/>
+            <div class="list-fitur">
+                <h4><b>OTHERS</b></h4>  
+            </div>
         </div> 
     </div>
     </div>
@@ -106,11 +101,7 @@ function Cards() {
                 <p>Vidio Call</p>
             </div>
         </div>    
-
-
-
-
-       
+   
     </>
     );
 }
