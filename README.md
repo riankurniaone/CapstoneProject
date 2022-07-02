@@ -6,7 +6,32 @@ Katakan.id has several features such as a chatbot feature to ask questions about
 
 ## Screenshots
 
+Beranda
 
+<center><img src="/docs/images/Home1.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/Home2.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/Home3.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/Home4.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/Home5.png" alt="Preview Image" /></center>
+
+Katakan Story
+
+<center><img src="/docs/images/KatakanStory.png" alt="Preview Image" /></center>
+
+About
+
+<center><img src="/docs/images/About1.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/About2.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/About3.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/About4.png" alt="Preview Image" /></center>
+
+Login
+
+<center><img src="/docs/images/Login.png" alt="Preview Image" /></center>
+
+Chatbot
+
+<center><img src="/docs/images/Chatbot1.png" alt="Preview Image" /></center>
 
 ## Features
 
