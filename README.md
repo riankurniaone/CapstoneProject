@@ -6,7 +6,7 @@ Katakan.id has several features such as a chatbot feature to ask questions about
 
 ## Screenshots
 
-Beranda
+- Beranda
 
 <center><img src="/docs/images/Home1.png" alt="Preview Image" /></center>
 <center><img src="/docs/images/Home2.png" alt="Preview Image" /></center>
@@ -14,28 +14,57 @@ Beranda
 <center><img src="/docs/images/Home4.png" alt="Preview Image" /></center>
 <center><img src="/docs/images/Home5.png" alt="Preview Image" /></center>
 
-Katakan Story
+- Katakan Story
 
 <center><img src="/docs/images/KatakanStory.png" alt="Preview Image" /></center>
 
-About
+- About
 
 <center><img src="/docs/images/About1.png" alt="Preview Image" /></center>
 <center><img src="/docs/images/About2.png" alt="Preview Image" /></center>
 <center><img src="/docs/images/About3.png" alt="Preview Image" /></center>
 <center><img src="/docs/images/About4.png" alt="Preview Image" /></center>
 
-Login
+- Login
 
 <center><img src="/docs/images/Login.png" alt="Preview Image" /></center>
 
-Chatbot
+- Chatbot
 
 <center><img src="/docs/images/Chatbot1.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/Chatbot2.png" alt="Preview Image" /></center>
 
 ## Features
 
+<left><img src="/docs/images/home.png" alt="Preview Image" /></left>  
 
+➡️ Homepage for viewing an explanatory description of the web application Katakan.id and seeing some of the services available in Katakan.id
+
+<left><img src="/docs/images/text-icon.png" alt="Preview Image" /></left>
+
+➡️ Chat with a psychologist
+
+<left><img src="/docs/images/call-icon.png" alt="Preview Image" /></left>
+
+➡️ Call with a psychologist
+
+<left><img src="/docs/images/video call-icon.png" alt="Preview Image" /></left>
+
+➡️ Video Call with a psychologist
+
+<left><img src="/docs/images/article.png" alt="Preview Image" /></left>
+
+➡️ Article or Blog about mental health
+
+<left><img src="/docs/images/about.png" alt="Preview Image" /></left>
+
+➡️ About for information background application and introduce my team
+
+<left><img src="/docs/images/log-in.png" alt="Preview Image" /></left>
+
+➡️ Login to website Katakan.id
+
+➡️ 🏃‍♀️ Logout Katakan.id account
 
 ## Installation
 
