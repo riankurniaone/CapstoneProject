@@ -52,6 +52,10 @@ Katakan.id has several features such as a chatbot feature to ask questions about
 
 ➡️ Video Call with a psychologist
 
+<left><img src="/docs/images/Button-Konsultasi.PNG" alt="Preview Image" /></left>
+
+➡️ Direct Consultation with a psychologist
+
 <left><img src="/docs/images/article.png" alt="Preview Image" /></left>
 
 ➡️ Article or Blog about mental health
@@ -68,7 +72,23 @@ Katakan.id has several features such as a chatbot feature to ask questions about
 
 ## Installation
 
-
+- Clone the project
+  ```bash
+     git clone https://github.com/riankurniaone/CapstoneProject.git
+  ```
+- Go to the project directory
+  ```bash
+     cd CapstoneProject
+  ```
+- Install dependencies
+  ```bash
+     npm install
+  ```
+- Start the server
+  ```bash
+     npm start
+  ```
+- Open `http://localhost:3000` with your browser to see the result
 
 ## Testing
 
