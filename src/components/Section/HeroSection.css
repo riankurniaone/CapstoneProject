@@ -1,0 +1,64 @@
+
+    .wrapper{
+        padding: 60px;
+        padding-top: 20px;
+    }
+    section{
+        margin: auto;
+        display: flex;
+        margin-bottom: 50px;
+        margin-top: 50px;
+        padding-left: 50px;
+    }
+    
+    .img-header{
+        width: 40%;
+        height: 45%;
+       margin-left: 30px;
+    }
+    
+    .column{
+        margin-top: 9%;
+        margin-bottom: 50px;
+        padding-right: 100px;
+        padding-left: 2%;
+    }
+    
+    .column .description{
+        padding-top: 10px;
+        font-size: 19px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align: justify;
+    }
+    .description{
+        color: black;
+    }
+    
+    
+
+    h4{
+        font-weight: bold;
+        font-size: 30px;
+    }
+    
+    .button{
+        background-color: #364f68;
+        padding: 13px;
+        float: left;
+        margin-top: 20px;
+        color: white;
+        border-radius: 15px;
+        font-weight: bold;
+        text-decoration: none;
+    }
+    
+    .button:hover{
+        background-color: #fc5185;
+        color: white;
+    }
+
+    @media screen and (max-width:991.98px) {
+        .wrapper{
+            width: 90%;
+        }
+    }
