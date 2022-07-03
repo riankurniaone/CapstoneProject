@@ -1,70 +1,112 @@
-# Getting Started with Create React App
+# Katakan.id
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Katakan.id is a platform in the field of mental health, have the goal of making it easier for mental health sufferers to find information about mental health and consult directly with professional psychologists. 
 
-## Available Scripts
+Katakan.id has several features such as a chatbot feature to ask questions about mental health and consult with psychologists, katakan story containing articles about mental health, chat features, telephone, and video calls that can be used by users to consult privately with professional psychologists and have certified.
 
-In the project directory, you can run:
+## Screenshots
 
-### `npm start`
+- Beranda
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<center><img src="/docs/images/Home1.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/Home2.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/Home3.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/Home4.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/Home5.png" alt="Preview Image" /></center>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Katakan Story
 
-### `npm test`
+<center><img src="/docs/images/KatakanStory.png" alt="Preview Image" /></center>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- About
 
-### `npm run build`
+<center><img src="/docs/images/About1.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/About2.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/About3.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/About4.png" alt="Preview Image" /></center>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Chatbot
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<center><img src="/docs/images/Chatbot1.png" alt="Preview Image" /></center>
+<center><img src="/docs/images/Chatbot2.png" alt="Preview Image" /></center>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Features
 
-### `npm run eject`
+<left><img src="/docs/images/home.png" alt="Preview Image" /></left>  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+➡️ Homepage for viewing an explanatory description of the web application Katakan.id and seeing some of the services available in Katakan.id
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<left><img src="/docs/images/text-icon.png" alt="Preview Image" /></left>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+➡️ Chat with a psychologist
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<left><img src="/docs/images/call-icon.png" alt="Preview Image" /></left>
 
-## Learn More
+➡️ Call with a psychologist
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<left><img src="/docs/images/video call-icon.png" alt="Preview Image" /></left>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+➡️ Video Call with a psychologist
 
-### Code Splitting
+<left><img src="/docs/images/Button-Konsultasi.PNG" alt="Preview Image" /></left>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+➡️ Direct Consultation with a psychologist
 
-### Analyzing the Bundle Size
+<left><img src="/docs/images/article.png" alt="Preview Image" /></left>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+➡️ Article or Blog about mental health
 
-### Making a Progressive Web App
+<left><img src="/docs/images/about.png" alt="Preview Image" /></left>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+➡️ About for information background application and introduce my team
 
-### Advanced Configuration
+<left><img src="/docs/images/log-in.png" alt="Preview Image" /></left>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Installation
 
-### Deployment
+- Clone the project
+  ```bash
+     git clone https://github.com/riankurniaone/CapstoneProject.git
+  ```
+- Go to the project directory
+  ```bash
+     cd CapstoneProject
+  ```
+- Install dependencies
+  ```bash
+     npm install
+  ```
+- Start the server
+  ```bash
+     npm start
+  ```
+- Open `http://localhost:3000` with your browser to see the result
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Testing
 
-### `npm run build` fails to minify
+Run `npm test` for launches the test runner in the interactive watch mode.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Feedback
+
+If you have any feedback, you can create issue(s) [here](https://github.com/riankurniaone/CapstoneProject/issues)
+
+
+## Created
+
+Kelompok FE_HE2
+
+Sama Tech
+
+Katakan.id
+
+-Principal Members-
+
+KM_G2FE4238 Achmad Miftahudin
+
+KM_G2FE3237 Angela Tiurma
+
+KM_G2FE5107 Fildzah Hashifah
+
+KM_G2FE1103 Randy Rizki Fadillah
+
+KM_G2FE3063 Rian Kurniawan
