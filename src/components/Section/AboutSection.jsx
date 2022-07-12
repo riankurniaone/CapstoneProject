@@ -45,19 +45,19 @@ function About(){
                 </div>
             </div>
             <div className="team-card">
-                <img src="./images/mifta1.png"/>
+                <img src="./images/rendy.png" className="img-def"/>
                 <div className="team-name">
                     <h5>Randy Rizki Fadhillah</h5>
                 </div>
             </div>
             <div className="team-card">
-                <img src="./images/rian.png"/>
+                <img src="./images/rian.png" />
                 <div className="team-name">
                     <h5>Rian Kurniawan</h5>
                 </div>
             </div>
             <div className="team-card">
-                <img src="./images/mifta1.png"/>
+                <img src="./images/fildzah.png" className="img-def"/>
                 <div className="team-name">
                     <h5>Fildzah Hashifah</h5>
                 </div>
