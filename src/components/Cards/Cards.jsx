@@ -83,21 +83,15 @@ function Cards() {
         </div>
         <div className='call'>
             <div className='card-call'>
-                <a href='https://riliv.co/'>
                 <img src='https://riliv.co/img-homepage/text-icon.svg' alt=''/>
-                </a>
                 <p>Text</p>
             </div>
             <div className='card-call'>
-                <a href='https://riliv.co/'>
                 <img src='https://riliv.co/img-homepage/call-icon.svg' alt=''/>
-                </a>
                 <p>Call</p>
             </div>
-            <div className='card-call'>
-            <a href='https://riliv.co/'>
+            <div className='card-call'>         
                 <img src='https://riliv.co/img-homepage/video%20call-icon.svg' alt=''/>
-                </a>
                 <p>Vidio Call</p>
             </div>
         </div>   
@@ -109,9 +103,13 @@ function Cards() {
     </div>
     <div className='partner'>
         <div className='partner-list'>
+            <img src='https://www.anakbangsabisa.org/generasi-gigih/assets/gengigih-logo.png'/>
+        </div>
+        <div className='partner-list'>
             <img src='https://lelogama.go-jek.com/yabb/media/user_media/yabb_horizontal_logo_optimized.png'/>
         </div>
     </div> 
+
    
     </>
     );
